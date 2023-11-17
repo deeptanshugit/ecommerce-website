@@ -11,33 +11,10 @@ export default {
     ProductSection,
   },
   name: "ProductComponent",
-  data() {
-    return {
-      hovered: false,
-    };
-  },
-  methods: {
-    showIcons() {
-      this.hovered = true;
-    },
-    hideIcons() {
-      this.hovered = false;
-    },
-    addToCart() {
-      console.log("hello");
-    },
-    addToFavorites() {
-      console.log("hello");
-    },
-    shareProduct() {
-      console.log("hello");
-    },
-  },
 };
 </script>
 
 <style scoped>
-/* Add your component-specific styles here */
 .product-section {
   margin-top: 20px;
 }

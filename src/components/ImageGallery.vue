@@ -1,4 +1,3 @@
-<!-- src/components/ImageGallery.vue -->
 <template>
   <div class="image-gallery">
     <div class="container">
@@ -57,7 +56,6 @@ export default {
 </script>
 
 <style scoped>
-/* Add your component-specific styles here */
 .image-gallery {
   margin-top: 20px;
 }

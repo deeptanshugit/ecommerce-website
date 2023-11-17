@@ -18,13 +18,12 @@
     padding: 10px 30px;
     font-size: 20px;
     border: none;
-    /* border-radius: 5px; */
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
   
   .custom-button:hover {
-    background-color: #5c0011; /* Adjust hover color as needed */
+    background-color: #8d031d;
   }
   </style>
   

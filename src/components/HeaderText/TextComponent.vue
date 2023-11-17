@@ -1,13 +1,13 @@
 <template>
-  <h2 class="hr-lines"> {{ title }} </h2>
+  <h2 class="title"> {{ title }} </h2>
 </template>
 
 <script>
 export default {
   props: {
     title: {
-      type: String, // Specify the prop type
-      default: "" // Set a default value if needed
+      type: String, 
+      default: "" 
     }
   },
 };
@@ -15,7 +15,7 @@ export default {
 
 
 <style scoped>
-.hr-lines{
+.title{
   position: relative;
   max-width: 500px;
   margin: 40px auto;
@@ -24,7 +24,7 @@ export default {
   font-weight: 600;
 }
 
-.hr-lines:before{
+.title:before{
   content:" ";
   height: 2px;
   width: 130px;
@@ -35,7 +35,7 @@ export default {
   left: 0;
 }
 
-.hr-lines:after{
+.title:after{
   content:" ";
   height: 2px;
   width: 130px;

@@ -1,8 +1,7 @@
 <template>
-        <div class="semi-circle left"></div>
+  <div class="semi-circle left"></div>
 </template>
 <style scoped>
-
 .right {
   right: 0;
 }

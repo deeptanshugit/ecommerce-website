@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-12">
             <div class="image-container">
-              <img src="@/assets/collection/street-wear.png" alt="Rectangle Image 1" class="img-fluid">
+              <img src="@/assets/collection/street-wear.png" alt="Product Image 1" class="img-fluid">
               <div class="blur-overlay">
                 <p class="collection-name">Streetwear Collections</p>
               </div>
@@ -14,7 +14,7 @@
 
           <div class="col-lg-4 col-md-12">
             <div class="image-container">
-              <img src="@/assets/collection/striped.png" alt="Rectangle Image 1" class="img-fluid">
+              <img src="@/assets/collection/striped.png" alt="Product Image 2" class="img-fluid">
               <div class="blur-overlay">
                 <p class="collection-name">Striped T-Shirts</p>
               </div>
@@ -23,7 +23,7 @@
 
           <div class="col-lg-4 col-md-12">
             <div class="image-container">
-              <img src="@/assets/collection/round-neck.png" alt="Rectangle Image 1" class="img-fluid">
+              <img src="@/assets/collection/round-neck.png" alt="Product Image 3" class="img-fluid">
               <div class="blur-overlay">
                 <p class="collection-name">Round Neck Tshirts</p>
               </div>
@@ -33,7 +33,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-12">
             <div class="image-container">
-              <img src="@/assets/collection/printed.png" alt="Rectangle Image 1" class="img-fluid">
+              <img src="@/assets/collection/printed.png" alt="Product Image 4" class="img-fluid">
               <div class="blur-overlay">
                 <p class="collection-name">Printed T-Shirts</p>
               </div>
@@ -42,7 +42,7 @@
 
           <div class="col-lg-4 col-md-12">
             <div class="image-container">
-              <img src="@/assets/collection/oversized.png" alt="Rectangle Image 1" class="img-fluid">
+              <img src="@/assets/collection/oversized.png" alt="Product Image 5" class="img-fluid">
               <div class="blur-overlay">
                 <p class="collection-name">Oversized T-Shirts</p>
               </div>
@@ -51,7 +51,7 @@
 
           <div class="col-lg-4 col-md-12">
             <div class="image-container">
-              <img src="@/assets/collection/half-sleeve.png" alt="Rectangle Image 1" class="img-fluid">
+              <img src="@/assets/collection/half-sleeve.png" alt="Product Image 6" class="img-fluid">
               <div class="blur-overlay">
                 <p class="collection-name">Half Sleeves T-Shirt</p>
               </div>
@@ -63,7 +63,6 @@
   </template>
   
   <style scoped>
-  /* Add your component-specific styles here */
   .image-blur-section {
     margin-top: 20px;
   }

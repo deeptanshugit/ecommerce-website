@@ -1,4 +1,3 @@
-<!-- src/components/ImageBlurComponent.vue -->
 <template>
   <div>
     <CollectionSection></CollectionSection>

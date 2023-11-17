@@ -1,9 +1,8 @@
-<!-- src/components/ImageSection.vue -->
 <template>
   <div class="image-section">
     <div class="container">
       <div class="row">
-        <!-- Two large images side by side (col-6) -->
+
         <div class="featured-above">
           <div class="col-lg-6">
             <img
@@ -21,7 +20,6 @@
           </div>
         </div>
 
-        <!-- Three smaller images below (col-4) -->
         <div class="featured-lower">
           <div class="col-lg-4">
             <img
@@ -57,7 +55,6 @@ export default {
 </script>
 
 <style scoped>
-/* Add your component-specific styles here */
 .image-section {
   margin-top: 20px;
 }
@@ -74,7 +71,6 @@ export default {
 }
 
 .img-fluid {
-  /* max-width: 100%; */
   width: 100%;
   height: auto;
 }

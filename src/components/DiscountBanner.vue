@@ -1,4 +1,3 @@
-<!-- src/components/DiscountBanner.vue -->
 <template>
   <div class="discount-banner">
     <div class="container">
@@ -40,7 +39,6 @@
 </template>
 
 <style scoped>
-/* Add your component-specific styles here */
 .discount-banner {
   margin-top: 20px;
 }

@@ -1,4 +1,3 @@
-<!-- src/components/SubscribeSection.vue -->
 <template>
   <div class="subscribe-section">
     <div class="container">
@@ -25,7 +24,6 @@
 </template>
 
 <style scoped>
-/* Add your component-specific styles here */
 .subscribe-section {
   margin-top: 20px;
 }

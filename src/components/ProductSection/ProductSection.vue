@@ -1,9 +1,8 @@
-<!-- src/components/ProductComponent.vue -->
+
 <template>
   <div class="product-section">
     <div class="container">
       <div class="row">
-        <!-- Repeat the following block for each product -->
         <div class="col-lg-3 col-md-4 col-sm-6">
           <div
             class="product-item"
@@ -224,13 +223,13 @@ export default {
       this.hovered = false;
     },
     addToCart() {
-      console.log("hello");
+      console.log("Added To Cart");
     },
     addToFavorites() {
-      console.log("hello");
+      console.log("Added To Favorites");
     },
     shareProduct() {
-      console.log("hello");
+      console.log("Shared");
     },
   },
 };

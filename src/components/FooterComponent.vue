@@ -11,11 +11,9 @@
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
             <div class="social-icons">
-              <!-- Add your social media icons or links here -->
               <i class="fab fa-facebook"></i>
               <i class="fab fa-twitter"></i>
               <i class="fab fa-instagram"></i>
-              <!-- Add more icons as needed -->
             </div>
           </div>
         </div>
@@ -103,7 +101,6 @@ ul li {
 a {
   color: #000000;
   text-decoration: none;
-  /* margin-left: 10px; */
 }
 
 p {

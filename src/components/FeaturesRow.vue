@@ -1,4 +1,3 @@
-<!-- src/components/ImageRow.vue -->
 <template>
   <div class="feature-row" style="background-color: #f5f4f2">
     <div class="container">
@@ -45,8 +44,6 @@ export default {
 </script>
 
 <style scoped>
-/* Add your component-specific styles here */
-
 
 .feature-row {
   margin-top: 20px;
@@ -56,7 +53,6 @@ export default {
 }
 
 .img-fluid {
-  /* margin-right: 100px; */
   width: 50%;
   height: auto;
 }

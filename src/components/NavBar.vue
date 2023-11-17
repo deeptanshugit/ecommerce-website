@@ -3,13 +3,11 @@
     <div class="container">
       <div class="menu">
         <span class="menu-icon">
-          <!-- Replace with your call icon -->
           <i class="fa-solid fa-bars"></i>
         </span>
       </div>
-      <!-- Brand/logo -->
+
       <div class="brand">
-        <!-- <img src="@/assets/logo.png" alt="Logo" height="30" /> -->
         <h5> Logo Here </h5>
       </div>
 
@@ -63,13 +61,13 @@ h5 {
 
 .nav a {
   text-decoration: none;
-  color: #343a40; /* Set your desired text color */
+  color: #343a40; 
   font-weight: bold;
   font-size: 16px;
   transition: color 0.3s ease;
 }
 
 .nav a:hover {
-  color: #007bff; /* Set your desired hover color */
+  color: #007bff; 
 }
 </style>
